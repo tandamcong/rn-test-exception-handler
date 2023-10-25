@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.masteratul.rn.testexception.rn-test-exception-handler-merged_res-19:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tandamcong/.gradle/caches/transforms-3/362e4b8942ccec6f86db874e55aa48a2/transformed/appcompat-1.4.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.masteratul.rn.testexception.rn-test-exception-handler-mergeReleaseResources-17:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tandamcong/.gradle/caches/transforms-3/362e4b8942ccec6f86db874e55aa48a2/transformed/appcompat-1.4.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

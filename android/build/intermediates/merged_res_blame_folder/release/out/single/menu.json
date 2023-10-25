@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.masteratul.rn.testexception.rn-test-exception-handler-merged_res-19:/menu/example_menu2.xml",
+        "source": "com.masteratul.rn.testexception.rn-test-exception-handler-core-1.7.0-3:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.masteratul.rn.testexception.rn-test-exception-handler-merged_res-19:/menu/example_menu.xml",
+        "source": "com.masteratul.rn.testexception.rn-test-exception-handler-core-1.7.0-3:/menu/example_menu.xml"
+    }
+]

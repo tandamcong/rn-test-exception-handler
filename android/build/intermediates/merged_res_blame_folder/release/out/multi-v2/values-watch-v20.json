@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.masteratul.rn.testexception.rn-test-exception-handler-mergeReleaseResources-17:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/tandamcong/.gradle/caches/transforms-3/362e4b8942ccec6f86db874e55aa48a2/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.masteratul.rn.testexception.rn-test-exception-handler-merged_res-19:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/tandamcong/.gradle/caches/transforms-3/362e4b8942ccec6f86db874e55aa48a2/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
